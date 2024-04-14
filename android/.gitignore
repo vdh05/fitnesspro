@@ -1,0 +1,58 @@
+# OSX
+#
+.DS_Store
+node_modules/
+# Android/IntelliJ
+#
+build/
+.idea
+.gradle
+local.properties
+*.iml
+*.hprof
+
+# Bundle artifacts
+*.jsbundle
+# React Native related
+/node_modules/
+/.expo/
+/.expo-shared/
+*.log
+
+# OS generated
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Debug files
+*.map
+
+# Environment variables
+.env*
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Dependency directory (yarn.lock and package-lock.json)
+/yarn.lock
+/package-lock.json
+
+# Android related
+android/app/build/
+android/build/
+android/.gradle
+android/local.properties
+
+# iOS related
+ios/Pods/
+ios/build/
+ios/Pods.xcodeproj/
+ios/*.xcworkspace/
+ios/*.xccheckout

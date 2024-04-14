@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "96083745285",
+    "project_id": "fitpro-e4378",
+    "storage_bucket": "fitpro-e4378.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96083745285:android:eb8a1929226402c9ebda6c",
+        "android_client_info": {
+          "package_name": "com.anonymous.StepCounter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoJcasCYA18InO3WKTxmQ8sS-UaW_I6w4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
